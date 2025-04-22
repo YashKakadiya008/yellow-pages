@@ -9,26 +9,23 @@ A modern Flutter application for business listings and directory services.
 - Category-based Search
 - Wishlist Functionality
 - Product Inquiries
-- Support Ticket System
-- Payment and Package Management
 - Profile Management
 - Dark/Light Theme Support
-- Multi-platform Support (Web, Android, iOS)
+- Multi-platform Support (Web, Android)
 
 ## Getting Started
 
 ### Prerequisites
 
 - Flutter SDK (latest version)
-- Dart SDK
-- Android Studio / VS Code
+- VS Code
 - Git
 
 ### Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/yellow-pages.git
+git clone https://github.com/YashKakadiya008/yellow-pages.git
 ```
 
 2. Navigate to project directory
@@ -70,20 +67,12 @@ lib/
 - Google Maps: Location services
 - And more...
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - your.email@example.com
+Yash Kakadiya - yashkakadiya008@gmail.com
 
 Project Link: [https://github.com/your-username/yellow-pages](https://github.com/your-username/yellow-pages) 
