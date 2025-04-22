@@ -81,5 +81,6 @@ Yash Kakadiya - yashkakadiya008@gamil.com
 Project Link: https://github.com/YashKakadiya008/yellow-pages
 
 ## Photos
-![Screenshot 2025-04-22 205040](https://github.com/user-attachments/assets/0b3a0f4c-242a-4aea-a3f7-f0e7ab781f76) ![Screenshot 2025-04-22 205502](https://github.com/user-attachments/assets/20073532-2217-4e61-95a5-3841c2ee1243)
+![Screenshot 2025-04-22 205040](https://github.com/user-attachments/assets/0b3a0f4c-242a-4aea-a3f7-f0e7ab781f76) 
+![Screenshot 2025-04-22 205502](https://github.com/user-attachments/assets/20073532-2217-4e61-95a5-3841c2ee1243)
 
