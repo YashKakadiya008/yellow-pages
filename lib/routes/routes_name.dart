@@ -1,0 +1,31 @@
+class RoutesName {
+  static String initial = "/";
+  static String onbordingScreen = "/onbordingScreen";
+  static String bottomNavBar = "/bottomNavBar";
+  static String homeScreen = "/homeScreen";
+  static String loginScreen = "/loginScreen";
+  static String searchResultscreen = "/searchResults";
+  static String signUpScreen = "/signUpScreen";
+  static String myListingScreen = "/myListingScreen";
+  static String listingDetailsScreen = "/listingDetailsScreen";
+  static String businessEditingScreen = '/businessEditingScreen';
+  static String profileSettingScreen = "/profileSettingScreen";
+  static String editProfileScreen = "/editProfileScreen";
+  static String changePasswordScreen = "/changePasswordScreen";
+  static String addListingScreen = "/addListingScreen";
+  static String wishListScreen = "/wishListScreen";
+  static String transactionScreen = "/transactionScreen";
+  static String paymentHistoryScreen = "/paymentHistoryScreen";
+  static String myAnalyticsScreen = "/myAnalyticsScreen";
+  static String myPackageScreen = "/myPackageScreen";
+  static String productEnquiryScreen = "/productEnquiryScreen";
+  static String productEnquiryDetailsScreen = "/productEnquiryDetailsScreen";
+  static String productEnquiryInboxScreen = "/productEnquiryInboxScreen";
+  static String supportTicketListScreen = "/supportTicketListScreen";
+  static String supportTicketViewScreen = "/supportTicketViewScreen";
+  static String twoFaVerificationScreen = "/twoFaVerificationScreen";
+  static String notificationScreen = "/notificationScreen";
+  static String createSupportTicketScreen = "/createSupportTicketScreen";
+  static String topCategoryScreen = "/topCategoryScreen";
+  static String subCategoryScreen = "/subCategoryScreen";
+}
