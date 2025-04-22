@@ -4,20 +4,23 @@ A modern Flutter application for business listings and directory services.
 
 ## Features
 
-- User Authentication (Login/Signup)
-- Business Listings Management
-- Category-based Search
-- Wishlist Functionality
-- Product Inquiries
-- Profile Management
-- Dark/Light Theme Support
-- Multi-platform Support (Web, Android)
+- 📱 Cross-platform support (Android, Web)
+- 🎨 Modern and responsive UI
+- 🔍 Advanced search functionality
+- 📍 Location-based services
+- 👤 User authentication and profiles
+- 📝 Business listing management
+- 💼 Category-based organization
+- 💬 Product inquiry system
+- 🔔 Real-time notifications
+- 🌙 Dark mode support
 
 ## Getting Started
 
 ### Prerequisites
 
 - Flutter SDK (latest version)
+- Dart SDK
 - VS Code
 - Git
 
@@ -73,6 +76,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Yash Kakadiya - yashkakadiya008@gmail.com
+Yash Kakadiya - yashkakadiya008@gamil.com
 
-Project Link: [https://github.com/your-username/yellow-pages](https://github.com/your-username/yellow-pages) 
+Project Link: https://github.com/YashKakadiya008/yellow-pages
+
+## Photos
+![Screenshot 2025-04-22 205040](https://github.com/user-attachments/assets/0b3a0f4c-242a-4aea-a3f7-f0e7ab781f76)
